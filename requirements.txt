@@ -1,0 +1,8 @@
+ultralytics
+easyocr
+fastapi
+uvicorn
+streamlit
+opencv-python
+pydantic
+python-multipart
